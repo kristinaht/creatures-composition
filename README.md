@@ -1,6 +1,6 @@
-# _Plant Grower Practice_
+# _Practice Composition_
 
-#### _Practice building a functional application , 4-13-2020_
+#### _ , 4-13-2020_
 
 #### By _**Kristina Hengster Tintor**_
 
